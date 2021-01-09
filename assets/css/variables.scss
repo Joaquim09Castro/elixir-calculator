@@ -1,0 +1,8 @@
+$background_color_1: #2F112A;
+$background_color_2: #8162CE;
+$background_color_3: #8D3A80;
+$detail_color_1: #838BD8;
+$detail_color_2: #C4B8EA;
+
+$background_body: linear-gradient(60deg, $background_color_1, lighten($background_color_1, 8));
+$background_div: linear-gradient(60deg, $background_color_1, $background_color_3, $background_color_2);
